@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OatsProgramming
+- 👋 Hi, I’m @OatsProgramming; I'm relatively new to programming so please be patient with me
 - 👀 I’m interested in ... trying to recreate SAO without the negatives/ "Ready Player One"
 - 🌱 I’m currently learning ... python and the fundamentals of the coding language
 - 💞️ I’m looking to collaborate on ... whatever as of rn: I want to be exposed to as many things as possible
