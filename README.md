@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... trying to recreate SAO without the negatives/ "Ready Player One"
 - 🌱 I’m currently learning ... python and the fundamentals of the coding language
 - 💞️ I’m looking to collaborate on ... whatever as of rn: I want to be exposed to as many things as possible
-- 📫 How to reach me ... cloudisemail@gmail.com
+- 📫 How to reach me ... jackoatmeals@gmail.com
 
 <!---
 OatsProgramming/OatsProgramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
