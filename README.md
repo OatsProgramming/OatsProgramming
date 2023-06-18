@@ -77,7 +77,7 @@ hobbies:
 />
 <img
     align="center"
-    src="public/prisma.png"
+    src="public/prisma.svg"
     alt="Prisma"
     width="50"
 />
