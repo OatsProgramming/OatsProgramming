@@ -1,10 +1,9 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&pause=1000&color=F7F7F7&background=171515&center=true&vCenter=true&width=432&lines=Sup'+Fellow+Computer+Nerds;I'm+Oats%3A+a+Software+Developer" alt="Typing SVG" width="100%"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&pause=1000&color=F7F7F7&background=171515&center=true&vCenter=true&width=432&lines=Sup'+Fellow+Computer+Nerds;I'm+Oats%3A+a+Software+Developer" alt="Typing SVG" /></a>
 </p>
 <p align='center'>
     <img 
         src="https://bestanimations.com/media/peripherals/1656358316computer-monitor-animated-gif-4.gif"
-        width="100%"
     />
 </p>
 
